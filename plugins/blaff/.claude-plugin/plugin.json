@@ -1,0 +1,13 @@
+{
+  "name": "blaff",
+  "version": "0.1.0",
+  "description": "Davide's Claude skills: blaff-rea (reverse-engineer a website and apply it to your project).",
+  "author": {
+    "name": "davideblaffard",
+    "url": "https://github.com/davideblaffard"
+  },
+  "homepage": "https://github.com/davideblaffard/blaff-skills",
+  "repository": "https://github.com/davideblaffard/blaff-skills",
+  "license": "MIT",
+  "keywords": ["reverse-engineering", "design-tokens", "brand-guide", "devtools", "playwright"]
+}

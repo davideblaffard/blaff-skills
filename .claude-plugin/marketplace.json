@@ -1,0 +1,19 @@
+{
+  "name": "blaff-skills",
+  "owner": {
+    "name": "davideblaffard",
+    "url": "https://github.com/davideblaffard"
+  },
+  "metadata": {
+    "description": "The Claude skills from my videos: website reverse engineering, unofficial brand guides and more.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "blaff",
+      "source": "./plugins/blaff",
+      "description": "Davide's Claude skills: blaff-rea (reverse-engineer a website and apply it to your project).",
+      "version": "0.1.0"
+    }
+  ]
+}
